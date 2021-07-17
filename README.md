@@ -10,8 +10,8 @@ I have made use of the generous works of [@grahamearley]( https://github.com/gra
 2. Open the form in Google Forms to edit it and look under the <b> Responses</b> tab
 3. Click green <b>View responses in sheets</b> button and this will generate a spreadsheet corresponding to the responses of the form. It can be found under Google Sheets.
 4. On the edit page of the form, Enter the Script Editor by clicking the three dotted button next to the Send button and finding the Script Editor on the menu.
-5. Once at the Script Editor menu, paste the code from above and entry the data for the missing inputs in the source.
-6. In the Script Editor menu, you must also add the Cloud Firestore Library, [see instructions](https://github.com/grahamearley/FirestoreGoogleAppsScript/tree/9ec4ca1c9fb1af9cb4df3ad5dff94762d638aa85#firestore-for-google-apps-scripts)
+5. Once at the Script Editor, paste the code from above and entry the data for the missing inputs in the source.
+6. In the Script Editor, you must also add the Cloud Firestore Library, [see instructions](https://github.com/grahamearley/FirestoreGoogleAppsScript/tree/9ec4ca1c9fb1af9cb4df3ad5dff94762d638aa85#firestore-for-google-apps-scripts)
 7. Then click the save button and the run button. 
 8. If the script runs successfully, then click the Deploy button and then click New Deployment.
 9. Then Click the Deploy Button in blue.
