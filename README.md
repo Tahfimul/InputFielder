@@ -25,3 +25,4 @@ I have made use of the generous works of [@grahamearley]( https://github.com/gra
 * For details on setting up Firebase Cloud Firestore see: https://firebase.google.com/docs/firestore </br>
 * For details on retrieving or generating Firebase secret key see: https://firebase.google.com/docs/projects/api-keys
 * To get spreadsheet id see: https://developers.google.com/sheets/api/guides/concepts
+* To retrieve firebase configuration details see: https://stackoverflow.com/a/59076083
