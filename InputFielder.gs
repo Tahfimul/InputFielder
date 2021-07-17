@@ -10,6 +10,7 @@ function myFunction() {
   
   const path = "";
 
+  //To get spreadsheet id see: https://developers.google.com/sheets/api/guides/concepts
   var mySheet = SpreadsheetApp.openById("YOUR-GOOGLE-FORMS-FORM-SPREADSHEET-ID");
 
   var dataSheet = mySheet.getSheets()[1];
