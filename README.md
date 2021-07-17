@@ -2,7 +2,7 @@
 
 Google's Forms application is a great tool for creating forms to collect data for various purposes. An added bonus is that Google has also included Google Script Editor into this tool. It is possible to combine this feature along with Google's Firebase Cloud Firestore database storage technology to make use of the data to create other applications. For example, sometimes it can be agonizing to develop an application to handle user input data from input fields of various types of data and in a short time. In such a case, it might be feasible to embed Google Forms into the application to allow Google Forms to handle input of the data in order to make progress on other aspects of the application.
 
-# Steps
+## Steps
 
 I have made use of the generous works of [@grahamearley]( https://github.com/grahamearley/FirestoreGoogleAppsScript/tree/9ec4ca1c9fb1af9cb4df3ad5dff94762d638aa85 ) and other developers of the library as well as this [article](https://medium.com/club-devbytes/how-to-build-formiqr-leverage-google-form-with-help-of-firebase-cloud-function-to-be-a-complete-55801110b578) to achieve this project.
 
