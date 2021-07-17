@@ -22,5 +22,5 @@ I have made use of the generous works of [@grahamearley]( https://github.com/gra
 14. For the select event trigger, choose on from submit and then the save button.
 15. Great! Now whenever you submit the form, it will pass the information collected to your firebase cloud firestore database.
 
-For details on setting up Firebase Cloud Firestore see: https://firebase.google.com/docs/firestore
-For details on retrieving or generating Firebase secret key see: https://firebase.google.com/docs/projects/api-keys
+* For details on setting up Firebase Cloud Firestore see: https://firebase.google.com/docs/firestore </br>
+* For details on retrieving or generating Firebase secret key see: https://firebase.google.com/docs/projects/api-keys
