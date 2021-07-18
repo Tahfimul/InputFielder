@@ -15,8 +15,8 @@ I have made use of the generous works of [@grahamearley]( https://github.com/gra
 7. Then click the save button and the run button. 
 8. If the script runs successfully, then click the Deploy button and then click New Deployment.
 9. Then Click the Deploy Button in blue.
-10. Find the alarm button on the Script Editor menu for the triggers section.
-11. In order to run the script, there must be a trigger created.
+10. In order for the script to be executed everytime a user submits your Google Form, there must be a trigger created.
+11. Find the alarm button on the Script Editor menu for the triggers section.
 12. Select the add trigger button.
 13. For the function choose myFunction.
 14. For the select event source, choose From Form.
